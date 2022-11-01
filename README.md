@@ -31,3 +31,4 @@ Company name - Select Company name
 #Run settings
 Working directory - create a folder to store test automation files in your local drive e.g C:\Temp\RegressionTool.
 Default broweser - Select the browser for test execution e.g edge, chrome, IE.
+Approved OS Browser is MSEdge 
